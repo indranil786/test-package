@@ -1,0 +1,25 @@
+{
+  "name": "@indranil786/test-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indranil786/test-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indranil786/test-package/issues"
+  },
+  "homepage": "https://github.com/indranil786/test-package#readme",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  },
+  "publishConfig": {
+    "@indranil786:registry": "https://npm.pkg.github.com"
+  }
+}
