@@ -2,7 +2,7 @@
   "name": "@indranil786/test-package",
   "version": "2.1.0",
   "description": "",
-  "main": ".lib/index.js",
+  "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
     "test": "exit 0"
